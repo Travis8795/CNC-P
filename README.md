@@ -17,3 +17,29 @@ I knew it was a hard project, but damn, I didn't know I'd learn this far. This p
 | ![image alt](https://github.com/Travis8795/CNC-P/blob/main/assets/bem.png) | ![image alt](https://github.com/Travis8795/CNC-P/blob/main/assets/bom.png) | ![image alt](https://github.com/Travis8795/CNC-P/blob/main/assets/bam.png) |
 
 ![image alt](https://github.com/Travis8795/CNC-P/blob/main/assets/diagram.jpg)
+
+### BOM table
+
+| Name                                | Description                     | Quantity |
+| :---------------------------------- | :------------------------------ | :------- |
+| 15180 aluminum profile 200x180mm    | the bed                         | 1        |
+| GT2 pulley 16T Bore 5mm height 10mm | the belt will rotate along it   | 4        |
+| Timing Belt Tensioner Spring        | Tensioner the Timing Belt       | 2        |
+| Bearings lm6uu                      | move along chrome palte         | 4        |
+| Chrome Plated Rods 6x100mm, 6x180mm | guide the axes                  | 1        |
+| Threaded Rods M3x100mm              | direct the axes                 | 1        |
+| Mechanical endstop                  | home the head                   | 3        |
+| ESC Skywalker 40A V2 UBEC 3-4S      | brushless motor driver          | 1        |
+| jumpers                             | connect pins                    | 10       |
+| some het shrink                     | keep the wires safe             | 10       |
+| zip ties                            | organize wiers                  | 1        |
+| 12V brushless 40x40x10mm fan        | cool down the system            | 1        |
+| power supply                        | power                           | 1        |
+| Cable Drag Chain                    | hold caples toggizer            | 1        |
+| brushless motor                     | move the bits to engrave copper | 1        |
+| NEMA 11 Stepper Motor               | motors for x and y              | 2        |
+| MGN9H Linear Bearing Block          | move things                     | 2        |
+| GT2 Timing Belt                     | motion system                   | 3        |
+| T-slot nut                          | hold everything                 | 50       |
+| 2020 aluminum extrusion - 75mm      | body                            | 4        |
+| 2020 aluminum extrusion - 220mm     | boudy                           | 4        |

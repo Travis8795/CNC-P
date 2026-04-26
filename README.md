@@ -1,4 +1,12 @@
 # CNC-P
+
+![License](https://img.shields.io/github/license/Travis8795/CNC-P?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Prototype-orange?style=flat-square)
+![Motion](https://img.shields.io/badge/Motion-CoreXY-blueviolet?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-Arduino-00979D?style=flat-square&logo=arduino)
+![Open Hardware](https://img.shields.io/badge/Open-Hardware-brightgreen?style=flat-square)
+
+---
 This is a compact CoreXY CNC machine for PCB making at home, capable of engraving copper and specifically taking FR4 PCBs.
 
 ## The why
@@ -10,13 +18,13 @@ I knew it was a hard project, but damn, I didn't know I'd learn this far. This p
 
 ### some pics
 
-![image alt](https://github.com/Travis8795/CNC-P/blob/main/assets/render.png)
+![image alt](https://raw.githubusercontent.com/Travis8795/CNC-P/main/assets/render.png)
 
 | bem | bom | bam |
 |-|-| - |
-| ![image alt](https://github.com/Travis8795/CNC-P/blob/main/assets/bem.png) | ![image alt](https://github.com/Travis8795/CNC-P/blob/main/assets/bom.png) | ![image alt](https://github.com/Travis8795/CNC-P/blob/main/assets/bam.png) |
+| ![image alt](https://raw.github.com/Travis8795/CNC-P/main/assets/bem.png) | ![image alt](https://raw.github.com/Travis8795/CNC-P/main/assets/bom.png) | ![image alt](https://raw.github.com/Travis8795/CNC-P/main/assets/bam.png) |
 
-![image alt](https://github.com/Travis8795/CNC-P/blob/main/assets/diagram.jpg)
+![image alt](https://raw.github.com/Travis8795/CNC-P/main/assets/diagram.jpg)
 
 ### BOM table
 
@@ -42,4 +50,4 @@ I knew it was a hard project, but damn, I didn't know I'd learn this far. This p
 | GT2 Timing Belt                     | motion system                   | 3        |
 | T-slot nut                          | hold everything                 | 50       |
 | 2020 aluminum extrusion - 75mm      | body                            | 4        |
-| 2020 aluminum extrusion - 220mm     | boudy                           | 4        |
+| 2020 aluminum extrusion - 220mm     | body                           | 4        |
